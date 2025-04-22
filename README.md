@@ -1,16 +1,44 @@
-## Hi there 👋
+# 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓓𝓸𝓶𝓪𝓲𝓷 👾 | muX1337
 
-<!--
-**muX1337/mux1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```1337speak
+H3LL0, W0RLD! 1'M 4 C0D3R WH0'Z 4LW4YZ 0N TH3 HUNT F0R 3P1C PR0J3CTZ 🔥
+```
 
-Here are some ideas to get you started:
+## 🖥️ `4B0UT M3`
+- **N4M3:** muX1337 | H4XX0R
+- **PR0F3SSI0N:** C0D3 W4RR10R, 0P3N-S0URC3 C0NQU3R0R
+- **SK1LLZ:** D3BUGG1NG BUGZ, H4CK1NG L1F3 1N R34L-T1M3
+- **H0BB13Z:** G4M1NG, SP33D C0D1NG, 3XP10R1NG TH3 D4RK C0RN3RS 0F TH3 1NT3RN3T 👾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚙️ `MY T00LZ 0F D00M`
+- **PR0GR4MM1NG L4NGU4G3Z:**
+  - 🐍 Pyth0n
+  - 🖤 J4V4
+  - 💣 S0m3 C++ and C 
+- **FR4M3W0RKZ & L1BR4R13Z:**
+  - 🔗 R34CT, DJ4NG0, FL4SK
+  - 💻 D0CK3R, KUB3RNET3S, AWS
+- **3XP3RT:**
+  - G1T F00 | K3YB04RD N1NJ4 | 3TH3R34L PR0BL3M S0LV3R
+
+---
+
+## 🚀 `1337 PR0J3CTZ`
+- 🔥 S3CR3T PR0J3CTZ B3Y0ND Y0UR 1MAG1N4T10N.
+- 🛠️ H4CK1NG TH3 M4TR1X 0F C0D3.
+
+---
+
+## 🤙 `L3T’Z C0NN3CT`
+- **H4NG 0UT:**
+  - 💻 [1337 G1THUB](https://github.com/muX1337)
+  - 🐦 [1337 TW1TT3R](https://x.com/MuxLeet)
+  - 🕸️ D4RK W3B (J/K, H1T M3 UP!)
+
+---
+
+```1337speak
+N3V3R ST0P L34RN1NG, N3V3R ST0P H4XX1NG. 1337 4LW4YZ! 🚀
+```
